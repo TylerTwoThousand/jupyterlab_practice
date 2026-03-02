@@ -1,0 +1,5 @@
+name: tyler_environment
+channels:
+  - conda-forge
+  - defaults
+prefix: C:\Users\Tyler\miniconda3\envs\tyler_environment
